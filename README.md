@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="file://C:/Users/HP/Downloads/1.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw3H4PU8N4G_XzKb7nBqtbiC&ust=1734268624894000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjl6aOsp4oDFQAAAAAdAAAAABBR">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajjavarapurithika&label=Profile%20views&color=0e75b6&style=flat" alt="gajjavarapurithika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajjavarapurithika" alt="gajjavarapurithika" /></a> </p>
