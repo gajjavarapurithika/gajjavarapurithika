@@ -1,7 +1,7 @@
 ![logo](https://github.com/gajjavarapurithika/gajjavarapurithika/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rithika</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajjavarapurithika&label=Profile%20views&color=0e75b6&style=flat" alt="gajjavarapurithika" /> </p>
-<img align="right" alt="coding" width="200" height="200" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="coding" width="400" height="300" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 - 🔭 I’m currently working on **coding**
 
 - 🌱 I’m currently learning **.Net**
@@ -29,3 +29,4 @@
 <p>&nbsp;<br><br><br><br><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=gajjavarapurithika&show_icons=true&locale=en" alt="gajjavarapurithika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajjavarapurithika&" alt="gajjavarapurithika" /></p>
+<a href="https://app.daily.dev/gajjavarapurithika"><img src="https://api.daily.dev/devcards/v2/cBWPQdmPtzLNrCtikPGIW.png?type=wide&r=cpf" width="652" alt="gajjavarapu rithika's Dev Card"/></a>
